@@ -8,3 +8,5 @@ aux_links:
   Repos: https://github.com/mrios38?tab=repositories
 
 aux_links_new_tab: true
+
+favicon_ico: "/assets/favicon/favicon.ico"
